@@ -3,7 +3,7 @@
 This repository contains my solutions to the **practical homework assignments** for the *Intelligent Analysis of Biomedical Images* course.  
 Each homework explores a different aspect of biomedical image analysis – from classical image processing to deep learning and graph neural networks.
 
-## 📚 Homework Overview
+## Overview
 
 | Folder | Topics / Techniques |
 |--------|----------------------|
